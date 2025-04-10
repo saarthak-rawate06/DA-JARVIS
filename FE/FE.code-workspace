@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../jarvis"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FE"
+	}
+}
