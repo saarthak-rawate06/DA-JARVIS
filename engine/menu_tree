@@ -1,0 +1,25 @@
+digraph MenuTree {
+	A [label="Main Menu"]
+	B [label="Voice Commands"]
+	C [label="File Management"]
+	D [label="System Controls"]
+	E [label=Settings]
+	F [label="Open Application"]
+	G [label="Search Web"]
+	H [label="Open File"]
+	I [label="Modify File"]
+	J [label=Shutdown]
+	K [label=Restart]
+	L [label="Update Preferences"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	B -> F
+	B -> G
+	C -> H
+	C -> I
+	D -> J
+	D -> K
+	E -> L
+}
